@@ -1,0 +1,18 @@
+.container {
+  align-items: center;
+  background-color: #ddd;
+  color: #333;
+  display: flex;
+  flex: 1;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2rem;
+  justify-content: center;
+  margin: 0.15rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.active {
+  background-color: rgb(21, 138, 21);
+  color: #fff;
+}
