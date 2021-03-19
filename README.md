@@ -3,3 +3,9 @@
 # React Performance Tuning
 
 This repo was created to accompany a blog post on React performance tuning.
+
+## Deployment Note
+
+In order to profile in production:
+
+- `yarn build --profile`
